@@ -18,6 +18,13 @@ You can usually leave this as the directory where your images to enhance are alr
 <br/>
 
 And the final directory, `final/` is where your animation will be placed one GK-2A Enhance is done with it. GK-2A Enhance will automatically create this directory for you if it doesn't already exist.
+<br>
+
+If you run into import errors, you'll need:
+- `pip install opencv-python`
+- `pip install glob2`
+- `pip install numpy`
+- `pip install argparse`
 
 ### System Requirements
 
