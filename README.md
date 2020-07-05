@@ -54,5 +54,5 @@ Falsely Coloured Image:
   <img src="https://github.com/MouseBatteries/GK-2A-Enhance/blob/master/examples/1-enhanced.jpg" width="350" title="hover text">
 </p>
 <b>
-A full weeks worth of animation can be found here, converter by this script. 
+A full weeks worth of animation can be found here, converted by this script. 
 https://www.youtube.com/watch?v=9PvcAF5QSGk
