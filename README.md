@@ -5,7 +5,7 @@ A Python script to Enhance, Colour and Animate LRIT IR105 Images from the Geo-Ko
 ## Running GK-2A Enhance
 GK-2A Enhance can be run in most terminals/consoles (Windows, Mac OS X, Linux) using the following command:
 
-`python test.py images/ images/ final/`
+`python test.py images/ images/ final/ True`
 
 `python` being, well python. You can also optionally use python3, if you want.
 <br/>
@@ -17,7 +17,9 @@ The **second** `images/` is for your working directory, or where GK-2A enhnace w
 You can usually leave this as the directory where your images to enhance are already located, as they will be removed later.
 <br/>
 
-And the final directory, `final/` is where your animation will be placed one GK-2A Enhance is done with it. GK-2A Enhance will automatically create this directory for you if it doesn't already exist.
+`final/` is where your animation will be placed one GK-2A Enhance is done with it. GK-2A Enhance will automatically create this directory for you if it doesn't already exist.
+
+The final argument you can parse, `True` or `False` decided wheather or not you want GK-2A Enhance to remove drops from your images. Enabling this will make the program much slower. 700 Odd frames can take upwards of an hour.
 <br>
 
 If you run into import errors, you'll need:
