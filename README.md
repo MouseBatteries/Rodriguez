@@ -1,6 +1,12 @@
 # GK-2A-Enhance
 A Python script to Enhance, Colour and Animate LRIT IR105 Images from the Geo-Kompsat-2A Satellite.
 
+## Key Features
+- Repairs Dropped Files from Images
+- Enhances landmass with CLAHE
+- False Colours
+- Animates
+
 
 ## Running GK-2A Enhance
 GK-2A Enhance can be run in most terminals/consoles (Windows, Mac OS X, Linux) using the following command:
