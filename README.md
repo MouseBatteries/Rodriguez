@@ -19,7 +19,7 @@ GK-2A Enhance has serveral Command Line Arguments that you need to use to proces
 - `o` - Tells GK-2A Enahnce where to put the final video
 - `s` - Tells GK-2A Enhance if you want to try and repair dropped frames.
 
-Type 'python GK-2A-Enhance.py -h' to see arguments and what order to put them in.
+Type `python GK-2A-Enhance.py -h` to see arguments and what order to put them in.
 
 <br>
 
