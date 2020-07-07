@@ -1,5 +1,5 @@
 # GK-2A-Enhance
-A Python script to Enhance, Colour and Animate LRIT IR105 Images from the Geo-Kompsat-2A Satellite.
+A Python script to Enhance your boring IR105 LRIT images from GK-2A.
 
 ## Key Features
 - Repairs Dropped Files from Images
