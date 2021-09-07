@@ -28,6 +28,7 @@ If you run into import errors, you'll need:
 - `pip install glob2`
 - `pip install numpy`
 - `pip install argparse`
+- `pip install pillow`
 
 ### System Requirements
 
