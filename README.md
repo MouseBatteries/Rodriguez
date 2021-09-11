@@ -21,5 +21,5 @@ A program to fix those pesky holes in data received by satellites.
 
 ## Download
 - Keeping in mind that this is a very early alpha, head on over and grab a copy if you'd like to check it out.
-- <a href="https://github.com/MouseBatteries/Rodriguez/releases" target="_blank">Introduction</a>
+- <a href="https://github.com/MouseBatteries/Rodriguez/releases" target="_blank">Rodriguez Binaries</a>
 
