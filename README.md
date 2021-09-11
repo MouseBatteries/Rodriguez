@@ -19,6 +19,7 @@ A program to fix those pesky holes in data received by satellites.
 - Implement selective correction.
 - CUDA.
 
-# Windows Binaries
-- Yes, this is a very sketchy Google Drive link to an EXE. Will it hurt your computer? No. Will you run out of memory? Maybe.
-- https://drive.google.com/file/d/1_VLoS8mh3JQDio0yzf0Sg9YuKEfvHMOz/view?usp=sharing
+## Download
+- Keeping in mind that this is a very early alpha, head on over and grab a copy if you'd like to check it out.
+- <a href="https://github.com/MouseBatteries/Rodriguez/releases" target="_blank">Introduction</a>
+
