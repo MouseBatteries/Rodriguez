@@ -20,6 +20,13 @@ Linux Setup:
 
 __Colour support to come soon.__
 
+## Sample Images
+__Before:__
+<img href="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/118.jpg">
+
+__After:__
+<img href="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/18-correct.jpg">
+
 ## Download
 Releases are currently only avaliable for Windows and Linux. However, ARM and Mac OS X builds are coming soon.
 <p>
