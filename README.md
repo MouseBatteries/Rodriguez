@@ -22,10 +22,12 @@ __Colour support to come soon.__
 
 ## Sample Images
 __Before:__
-<img src="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/118.jpg">
+<p>
+<img src="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/118.jpg" style="width:250px;" alt="Un-Corrected Image">
 
 __After:__
-<img src="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/18-correct.jpg">
+<p>
+<img src="https://github.com/MouseBatteries/Rodriguez/blob/master/sample_images/18-correct.jpg" style="width:250px;" alt="Corrected Image">
 
 ## Download
 Releases are currently only avaliable for Windows and Linux. However, ARM and Mac OS X builds are coming soon.
