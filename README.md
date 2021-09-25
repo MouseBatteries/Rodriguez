@@ -13,6 +13,13 @@ Linux Setup:
 - `chmod +x Rodriguez-Linux`.
 - Then Rodriguez can be run like such: `./Rodriguez-Linux <in folder> <out folder>`
 
+## Support
+- GK-2A IR
+- Himawari IR
+- GOES IR
+
+__Colour support to come soon.__
+
 ## Download
 Releases are currently only avaliable for Windows and Linux. However, ARM and Mac OS X builds are coming soon.
 <p>
