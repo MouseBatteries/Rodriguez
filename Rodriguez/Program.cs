@@ -29,19 +29,38 @@ namespace Rodriguez
 
         static void Main(string[] args)
         {
-            if (args.Length > 0)
+            if (args.Length < 2)
             {
-                Console.WriteLine("Settings:");
-                foreach (Object obj in args)
-                {
-                    Console.WriteLine("[S] - {0}", obj);
-                }
+                Console.WriteLine("[E] - Not enough arguments. Input and output directories are required, respectively.");
+                return;
             }
             else
             {
-                Console.WriteLine("[E] - Arguments Required.");
-                return;
+                if (args.Length > 2)
+                {
+                    Console.WriteLine("[E] - Too many arguments. There should only be an input and an output directory.");
+                    return;
+                }
+                else
+                {
+                    if (args.Length > 0)
+                    {
+                        Console.WriteLine("Settings:");
+                        foreach (Object obj in args)
+                        {
+                            Console.WriteLine("[S] - {0}", obj);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("[E] - Arguments Required.");
+                        return;
+                    }
+                }
             }
+
+
+            
 
             Console.WriteLine("" +
                 "┌──────────────────────────────────────────────┐\n" +
