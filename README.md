@@ -9,4 +9,5 @@ Coming! But for now, all you need to know is `Rodriguez.exe <in folder> <out fol
 
 ## Download
 Releases are currently only avaliable for windows. However, ARM, Linux and Mac OS X Builds are coming soon.
+<p>
 <a href="https://github.com/MouseBatteries/Rodriguez/releases/tag/Alpha">Windows - V0.0.2 - Alpha</a>
