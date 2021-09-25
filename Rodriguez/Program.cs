@@ -23,7 +23,7 @@ namespace Rodriguez
 
             gra.DrawImage(bitmapTopStack, xOffset, yOffset, bottomStackImg.Width, bottomStackImg.Height);
 
-            original.Save(pathToImages + newFilename, ImageFormat.Jpeg);
+            original.Save(newFilename, ImageFormat.Jpeg);
             System.GC.Collect(); //Collect garbage; stop using all of my memory!
         }
 
@@ -68,7 +68,7 @@ namespace Rodriguez
             var previous = imageArray[0].ToString();
             foreach(String file in imageArray)
             {
-                mergeImages(filepath, previous, file, $@"/{filepathOut}{i}-correct.jpg", 0, 0);
+                mergeImages(filepath, previous, file, $@"{filepathOut}{i}-correct.jpg", 0, 0);
                 previous = file;
                 i += 1;
 
