@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwiiH9MC/o2F9ZHllmeSrR7xJjc/HygshP84nMmLp5CuSmYyiDxQXl9u10L/rARPrIrkaRoMtF9RiBckzf2tpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mouse\\Desktop\\Rodriguez Rewrite\\Rodriguez\\Rodriguez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.18\\microsoft.netcore.app.runtime.win-x86.3.1.18.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.18\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.18.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.18\\microsoft.aspnetcore.app.runtime.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
