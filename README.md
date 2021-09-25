@@ -5,7 +5,8 @@ Using a custom built Geostationary Error Correction Engine (GECE), Rodriguez is 
 from geostationary satellites. It's in it's early stages now, but development will continue, with new commits at least weekly.
 
 ## Documentation
-Windows Use: `Rodriguez.exe <in folder> <out folder>`
+Windows Use: 
+- `Rodriguez.exe <in folder> <out folder>`
 
 Linux Setup:
 - Linux requires one extra step. You're required to make `Rodriguez-Linux` executable. You can do this with:
